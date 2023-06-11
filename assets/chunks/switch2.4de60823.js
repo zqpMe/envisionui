@@ -1,0 +1,1 @@
+import{f as n,o as s,g as l,r}from"../app.ca40206d.js";const p={__name:"switch2",setup(c){const e=n(!0);return(u,o)=>{const t=r("van-switch");return s(),l(t,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=a=>e.value=a),disabled:""},null,8,["modelValue"])}}};export{p as default};
