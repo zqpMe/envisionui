@@ -1,1 +1,0 @@
-import{_ as o,o as r,g as s,r as t}from"../app.ca40206d.js";const n={};function c(a,p){const e=t("van-progress");return r(),s(e,{percentage:70,"stroke-width":"8",style:{width:"70%",margin:"10px 0 0 30px"},"show-pivot":!1})}const f=o(n,[["render",c]]);export{f as default};
