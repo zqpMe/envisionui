@@ -1,1 +1,0 @@
-import{f as n,o as l,g as s,r}from"../app.611a4e24.js";const p={__name:"pagination2",setup(_){const e=n(4);return(i,a)=>{const o=r("envPagination");return l(),s(o,{modelValue:e.value,"onUpdate:modelValue":a[0]||(a[0]=t=>e.value=t),totalItems:125,itemsPerPage:10,mode:"simple",showPageSize:3,homePageText:"首页",lastPageText:"尾页"},null,8,["modelValue"])}}};export{p as default};
