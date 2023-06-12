@@ -1,0 +1,1 @@
+import{f as o,o as a,g as t,r as s}from"../app.611a4e24.js";const u={__name:"selcet1",setup(l){const e=o([{name:"集团",value:3},{name:"公司",value:5},{name:"体系",value:7,disabled:!0},{name:"部门",value:91}]);return(c,r)=>{const n=s("env-select");return a(),t(n,{options:e.value,label:"层级类别"},null,8,["options"])}}};export{u as default};
