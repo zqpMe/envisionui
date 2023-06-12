@@ -1,0 +1,1 @@
+import{f as n,o as t,g as r,r as s}from"../app.8987da62.js";const m={__name:"rate2",setup(u){const e=n(3.3);return(c,o)=>{const a=s("van-rate");return t(),r(a,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=l=>e.value=l),size:25,"void-icon":"like-o",icon:"like",disabled:""},null,8,["modelValue"])}}};export{m as default};
